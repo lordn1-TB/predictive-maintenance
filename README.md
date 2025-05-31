@@ -5,10 +5,6 @@
 [![Streamlit](https://img.shields.io/badge/Streamlit-1.45.1-FF4B4B.svg)](https://streamlit.io/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-<div align="center">
-  <img src="https://via.placeholder.com/800x300?text=Predictive+Maintenance+Dashboard" alt="Интерфейс приложения">
-</div>
-
 ## 📝 Описание
 Streamlit-приложение для предиктивного обслуживания промышленного оборудования. Система предсказывает вероятность отказа оборудования на основе данных датчиков.
 
@@ -85,4 +81,3 @@ docker run -p 8501:8501 predictive-maintenance
 - **Автор**: [Ваше Имя]
 - **Email**: ilnur.kasimov.92@mail.ru
 - **GitHub**: [@lordn1-TB](https://github.com/lordn1-TB)
-```
