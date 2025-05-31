@@ -61,7 +61,7 @@ predictive-maintenance/
 ```
 
 ## 🎥 Демонстрация
-<video src="Video/demo.mp4" controls width="100%"></video>
+<video src="video/demo.mp4" controls width="100%"></video>
 
 ## 📈 Результаты моделирования
 Модель | Accuracy | ROC-AUC | Precision | Recall
