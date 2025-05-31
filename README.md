@@ -61,6 +61,7 @@ predictive-maintenance/
 ```
 
 ## 🎥 Демонстрация
+![Демонстрация работы](Video/demo.gif)
 <video src="video/demo.mp4" controls width="100%"></video>
 
 ## 📈 Результаты моделирования
